@@ -4,12 +4,12 @@ This repo. contain some "Fashoin-Store-Website" , That I have made during learni
 
 # Objective and Requirements:
 
-Goal: Created Simple Template , It is responsive to all screens with some cool CSS.
-Dev tools : HTML CSS
-Using HTML ( Creating the structure )
-Adding CSS ( Giving cool style )
-Adding Java Script (Giving intractive between pages)
-Required: editor and browser
+* Goal: Created Simple Template , It is responsive to all screens with some cool CSS.
+* Dev tools : HTML CSS
+* Using HTML ( Creating the structure )
+* Adding CSS ( Giving cool style )
+* Adding Java Script (Giving intractive between pages)
+* Required: editor and browser
 
 ## Demo :
 
